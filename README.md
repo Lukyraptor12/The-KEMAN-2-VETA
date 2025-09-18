@@ -1,3 +1,3 @@
-# The-KEMAN-2-VETA
+# The-KEMAN-2-BETA
 
-Es una veta pronto saldra completo
+Es una beta pronto saldra completo
